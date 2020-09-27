@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sjlh.hotel</groupId>
 	<artifactId>rpc-spring</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<properties>
 		<java.version>11</java.version>
 		<maven.compiler.source>11</maven.compiler.source>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>com.sjlh.hotel</groupId>
 			<artifactId>rpc</artifactId>
-			<version>0.0.1</version>
+			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 	<distributionManagement>
